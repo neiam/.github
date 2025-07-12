@@ -26,6 +26,13 @@ Proxy logs over various transports into Loki
 - **Language:** Rust
 - **Category:** Infrastructure
 
+#### [Git Friends](https://github.com/neiam/git-friends)
+
+Notify Your Friends and Colleauges of Every Git Commit
+- **Language:** Rust
+- **Category:** Infrastructure
+
+
 ### 🛠️ Tools
 
 #### [PineNote Plasmoid](https://github.com/neiam)
@@ -34,6 +41,11 @@ A custom Plasmoid to control the hardware
 - **Category:** Tools
 
 #### [Plasma Kiosk Controller](https://github.com/neiam)
+Switch, Spawn, and Inspect a Plasma Kiosk
+- **Language:** Rust
+- **Categories:** Infrastructure, Tools
+
+#### [Home Assistant Plasmoid](https://github.com/neiam/home-assistant-plasmoid)
 Switch, Spawn, and Inspect a Plasma Kiosk
 - **Language:** Rust
 - **Categories:** Infrastructure, Tools
@@ -47,6 +59,7 @@ We work with:
 - **Rust** - For performance-critical infrastructure and tools
 - **QML** - For modern UI development
 - **Kubernetes** - Cloud-native orchestration
+- **Podman** - Machine-local orchiestratio
 - **And more...**
 
 ## Get Involved

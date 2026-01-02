@@ -12,68 +12,79 @@ NEIAM is where innovation meets execution. We build tools that work as hard as y
 
 #### [Mutant Operator](https://github.com/neiam/mutant-operator)
 A Kubernetes Operator for testing out mutations  
-- **Language:** Rust  
-- **Category:** Infrastructure
+- **Language:** Rust
 
-#### [Cargo Templates](https://github.com/neiam/cargo-templates)
-How we bootstrap to be cloud ready  
-- **Language:** Rust  
-- **Category:** Infrastructure
-
-#### [*OXXY](https://github.com/neiam/oxxy)
+#### [oxxy](https://github.com/neiam/oxxy)
 Proxy logs over various transports into Loki  
-- **Language:** Rust  
-- **Category:** Infrastructure
+- **Language:** Rust
 
 #### [git-friends](https://github.com/neiam/git-friends)
 Notify your friends and colleagues of every Git commit via social and messaging platforms  
-- **Language:** Rust  
-- **Topics:** git, IRC, MQTT, social-media
+- **Language:** Rust
 
 #### [chime-net](https://github.com/neiam/chime-net)
 MQTT-enabled chime/notification network  
-- **Language:** Rust  
-- **Topics:** chime, MQTT
+- **Language:** Rust
 
 #### [ghr-destroy](https://github.com/neiam/ghr-destroy)
 Manage and destroy ephemeral GitHub runners  
-- **Language:** Rust  
-- **Topics:** GitHub, GitHub Actions, runners management
+- **Language:** Rust
 
 #### [meshy-watchy](https://github.com/neiam/meshy-watchy)
 Bridge Meshtastic and MQTT in Rust for IoT/watch integrations  
-- **Language:** Rust  
-- **Topics:** Meshtastic, MQTT
+- **Language:** Rust
 
 #### [markprompter](https://github.com/neiam/markprompter)
 A markdown teleprompter tool  
-- **Language:** Rust  
-- **Topics:** markdown, teleprompter
+- **Language:** Rust
 
 #### [cargo-generate](https://github.com/neiam/cargo-generate)
 Templates and tooling for bootstrapping cloud-ready Rust projects  
-- **Language:** JavaScript  
-- **Topics:** cargo-generate
+- **Language:** Rust
+
+#### [mr-bridge](https://github.com/neiam/mr-bridge)
+Make your MQTT messages go out worldwide  
+- **Language:** Rust
+
+#### [theme-sender](https://github.com/neiam/theme-sender)
+Publish theme and configuration data onto the bus periodically  
+- **Language:** Rust
+
+#### [koco](https://github.com/neiam/koco)
+Koco: A Kodi Controller  
+- **Language:** Rust
 
 ### 🛠️ Tools
 
-#### PineNote Plasmoid a
-A custom Plasmoid to control the hardware  
-- **Language:** QML  
-- **Category:** Tools
+#### PineNote Plasmoid
+A custom Plasmoid to control PineNote hardware  
+- **Language:** QML
 
-#### Plasma Kiosk Controller 
+#### Plasma Kiosk Controller
 Switch, Spawn, and Inspect a Plasma Kiosk  
-- **Language:** Rust  
-- **Categories:** Infrastructure, Tools
+- **Language:** Rust
 
 #### [Home Assistant Plasmoid](https://github.com/neiam/home-assistant-plasmoid)
 A KDE Plasma widget for Home Assistant integration  
-- **Language:** QML  
-- **Topics:** home-assistant, plasma-desktop, plasmoid
+- **Language:** QML
 
-### 🚀 More Coming Soon
-Stay tuned for additional projects as we continue building what comes after what comes next.
+#### [apollos-kiosk](https://github.com/neiam/apollos-kiosk)
+A Kiosk For Apollo's Crib  
+- **Language:** Rust
+
+### 🎨 Experiments & Examples
+
+#### [css-wiki-example](https://github.com/neiam/css-wiki-example)
+CS:S Wiki Example Site  
+- **Language:** (unspecified)
+
+#### [css-site-example](https://github.com/neiam/css-site-example)
+CSS Site Example  
+- **Language:** (unspecified)
+
+#### [rh-3000](https://github.com/neiam/rh-3000)
+🔥🔥🔥  
+- **Language:** (unspecified)
 
 ## Technologies
 
@@ -88,8 +99,7 @@ We work with:
 
 Interested in what we're building? Want to collaborate?
 
-📧 **Contact us:** [hey@neiam.org](mailto:hey@neiam.org)
-
+📧 **Contact us:** [hey@neiam.org](mailto:hey@neiam.org)  
 🌐 **Visit our site:** [neiam.org](https://neiam.org)
 
 ---
